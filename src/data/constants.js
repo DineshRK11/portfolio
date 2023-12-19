@@ -290,7 +290,7 @@ export const Bio = {
       title: "Cosmatic website",
       date: "Dec 2023",
       description:
-        "ISDk stands for Internal Systems Development Kit. It is a API storage automation Application which is used by every Team in the Company",
+        "An E-commerce cosmetic Website for woman. It has dynamic data with list of items with separate navigation. you can add it to cart and View.",
       image:
         "https://i.postimg.cc/90cj6M3q/e-commerce.png",
       tags: ["React Js", "Next JS", "Tailwind CSS", "Daisy UI", "Redux"],
